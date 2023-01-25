@@ -3,6 +3,7 @@ body{
     color: white;
 }
 h1{
+    font-size: 3vw;
     text-transform: capitalize;
 }
 ul{
@@ -16,6 +17,7 @@ li{
     
 }
 li a{
+    font-size: 1.1vw;
     float:center;
     padding: 25px;
 }
